@@ -1,0 +1,210 @@
+[
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\AnimSpeedCalculations.txt",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\BTService_PlayerLocationIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\BTService_PlayerLocationIfSeen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\BTService_PlayerLocation_MO.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\BTService_PlayerLocation_MO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\BTTask_ClearBlackboardValue_MO.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\BTTask_ClearBlackboardValue_MO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\BTTask_Shoot_MO.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\BTTask_Shoot_MO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Gun_MO.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Gun_MO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\KillEmAllGameMode_MO.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\KillEmAllGameMode_MO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\MyPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\MyPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Section06.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Section06.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Section06.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Section06GameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Section06GameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Section06PlayerController_MO.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\Section06PlayerController_MO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\ShooterAIController_MO.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\ShooterAIController_MO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\ShooterCharacter_MO.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\Source\\Section06\\ShooterCharacter_MO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Dev\\Personal\\Unreal 5\\Projects\\Udemy\\UE5C++Dev\\Section06\\Section06\\.vscode\\compileCommands_Section06\\Section06.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
